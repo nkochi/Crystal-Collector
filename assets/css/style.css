@@ -1,0 +1,50 @@
+body{
+	background: gray;
+}
+div{
+	background-color: #6e6ef5;
+	margin: 10px;
+    width: 25%;
+    padding: 20px;
+}
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+ol{
+	list-style: decimal inside; 
+}
+
+.header{
+	background-color: #6e6ef5;
+}
+
+.gems{background-color: white;
+}
+
+.header, .instructions{
+	width: 50%;
+}
+
+.numtomatch, .winsAndLosses{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+
+.playerTotal{
+	width: 15%;
+	height: 60px;
+}
+
+.gems{
+	clear: both;
+}
+.Image{
+	height: 70px;
+	margin: 10px;
+}
